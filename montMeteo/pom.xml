@@ -8,18 +8,11 @@
 		<version>2.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.projetMeteo</groupId>
-	<artifactId>meteoProject</artifactId>
+	<groupId>com.example.m2dfs</groupId>
+	<artifactId>montMeteo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>meteoProject</name>
+	<name>montMeteo</name>
 	<description>Demo project for Spring Boot</description>
-
-	<modules>
-		<module>cityMeteo</module>
-		<module>montMeteo</module>
-		<module>seaMeteo</module>
-	</modules>
-
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
