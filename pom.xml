@@ -21,6 +21,7 @@
 		<module>montMeteo</module>
 		<module>seaMeteo</module>
 		<module>eurekaServer</module>
+		<module>ribbonServer</module>
 	</modules>
 
 	<properties>
